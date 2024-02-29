@@ -6,7 +6,7 @@ This is just an example of how you might structure your blog post, feel free to 
 
 ## Overview and Motivation
 This week we'll explore...
-
+asdfasdf
 ## Materials
 
 ## Project Steps
